@@ -1,1 +1,1 @@
-# odin-recipes
+# In this project i wanna check my skills in html because i was work with this language before and i actually don't use git and github well
