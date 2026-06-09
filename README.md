@@ -1,1 +1,1 @@
-# In this project i wanna check my skills in html because i was work with this language before and i actually don't use git and github well
+# In this project i wanna check my skills in html because i was work with this language before and i actually don't use git and github well. Design reference: https://www.bbcgoodfood.com/recipes/collection/quick-and-easy-family-recipes
